@@ -2,7 +2,7 @@
 
 ## Overview
 
-DiabetesGAN is a machine learning project that utilizes a Generative Adversarial Network (GAN) to create synthetic glucose level data for individuals with diabetes. This project aims to augment the PIMA Indians Diabetes Dataset with realistic, generated data to improve diabetes research and predictive modeling.
+SynthGAN is a machine learning project that utilizes a Generative Adversarial Network (GAN) to create synthetic glucose level data for individuals with diabetes. This project aims to augment the PIMA Indians Diabetes Dataset with realistic, generated data to improve diabetes research and predictive modeling.
 
 ## Features
 
